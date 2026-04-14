@@ -21,3 +21,17 @@
 [2026-04-02 11:01:35] [SYSTEM] Railway Reservation System started
 [2026-04-02 11:02:11] [LOGIN] Successful login: admin (admin)
 [2026-04-02 11:03:23] [SYSTEM] Railway Reservation System started
+[2026-04-14 15:08:14] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:08:18] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:08:59] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:09:00] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:09:01] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:09:01] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:09:01] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:09:19] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:11:01] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:14:48] [LOGIN] Successful login: admin (admin)
+[2026-04-14 15:15:13] [BOOKING] Ticket TRN761599139631 booked by admin on train 12001 seat 3
+[2026-04-14 15:15:36] [CANCEL] Ticket TRN761599139631 cancelled by admin. Refund: Rs. 1890
+[2026-04-14 15:16:22] [REGISTER] New passenger registered: Soham
+[2026-04-14 15:16:30] [BOOKING] Ticket TRN761599906456 booked by Soham on train 12001 seat 3
